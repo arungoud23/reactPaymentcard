@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+.card{
+  width:600px;
+  height: 400px;
+  /* border:1px solid red; */
+ 
+  margin:auto;
+  margin-bottom:30px;
+}
+
+.first{
+  width:92%;
+  height: 100px;
+  /* border:1px solid green; */
+  margin:auto;
+  margin-top:20px;
+  display:flex;
+  justify-content: space-between;
+}
+
+.avatar{
+  width:100px;
+  height:100px;
+}
+
+.details{
+  width:200px;
+  height:300px;
+  /* border:1px solid blue; */
+  text-align: left;
+  margin:0px;
+  margin-left:20px;
+  margin-right: 400px;
+}
